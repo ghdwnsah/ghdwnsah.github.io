@@ -5,9 +5,9 @@ excerpt: "기획 시작"
 categories:
   - Projects
 tags:
-  - [Projects, NestUserService]
+  - [Projects, NestJSUserService]
 
-permalink: /projects/NestUserService/
+permalink: /projects/NestJSUserService/
 
 toc: true
 toc_sticky: true
