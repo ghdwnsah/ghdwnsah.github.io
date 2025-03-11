@@ -98,8 +98,8 @@ analytics:
 
 # Site Author
 author:
-  name: "Hailee's Log" # 블로그 닉네임
-  avatar: "/assets/images/hailee.png" # 블로그 프로필 사진
+  name: "ghdwnsah's Log" # 블로그 닉네임
+  avatar: "/assets/images/ghdwnsah.png" # 블로그 프로필 사진
   #   bio              : "hi all!"
   # location         : "Seoul, Korea"
   # email            : "youremailhere@xxxxxx.com"
@@ -129,7 +129,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/haileelog"
+      url: "https://github.com/ghdwnsah"
 #    - label: "GitLab"
 #      icon: "fab fa-fw fa-gitlab"
 #      # url:
