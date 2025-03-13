@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://haileelog.github.io/
+    url: https://ghdwnsah.github.io/
 
   - title: "About Me"
     url: /about-me/
 
   - title: "GitHub"
-    url: https://github.com/haileelog
+    url: https://github.com/ghdwnsah
 
   # - title: "Projects"
   #   url: /projects/
@@ -19,7 +19,7 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "Portfolio"
-    url: https://www.notion.so/b382c26cd51046c8be91f8a5e551ab71
+    url: https://checkered-tilapia-8cb.notion.site/19f3f0553b4a80ff8a08c6a577bc039a?pvs=4
   - title: "Projects"
     url: /categories/projects/
   - title: "DevLog"
