@@ -1,6 +1,6 @@
 ---
-title: "NestJS 유저 서비스 #01"
-excerpt: "기획 시작"
+title: "NestJS 유저 서비스 #02"
+excerpt: "ORM 변경 작업업"
 
 categories:
   - Projects
