@@ -12,8 +12,8 @@ permalink: /projects/NestJSUserService/
 toc: true
 toc_sticky: true
 
-date: 2025-03-11
-last_modified_at: 2025-03-11
+date: 2025-03-24
+last_modified_at: 2025-03-24
 ---
 
 ## 🧸 유저 서비스 #02 typeORM -> prisma 변경 작업
